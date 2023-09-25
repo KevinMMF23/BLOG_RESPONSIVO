@@ -49,7 +49,11 @@ A continuación proporciono las tecnologías utilizadas:
 Iniciarás en la pestaña siguiente:
 ![image](https://github.com/KevinMMF23/BLOG_RESPONSIVO/assets/105268123/338b1c64-970e-4921-ba4a-bbab94118477)
 
+
+
+
 Podrás navegar entre las pestañas siguientes:
+
 ![image](https://github.com/KevinMMF23/BLOG_RESPONSIVO/assets/105268123/3a7ed1a8-aae1-40b1-bac5-545e03e2cafc)
 
 A continuación, te proporciono cada página referenciada en los enlaces de color azúl:
