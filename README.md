@@ -58,9 +58,12 @@ A continuación, te proporciono cada página referenciada en los enlaces de colo
 
 ![image](https://github.com/KevinMMF23/BLOG_RESPONSIVO/assets/105268123/bbb3d732-e027-4044-b2d5-120e3e5d35c9)
 
+
 Como puedes observar, en la parte posterior de cada página antes mostrada,
 Existe un menú por el cual puedes navegar y moverte entre c/u de las pestañas.
 Cabe recalcar que el menú es responsivo:
+
+
 ![image](https://github.com/KevinMMF23/BLOG_RESPONSIVO/assets/105268123/d51c8329-a9d4-4e84-b154-aa26ba32156d)
 
 # Clona el repositorio
