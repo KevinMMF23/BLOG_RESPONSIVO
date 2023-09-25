@@ -23,6 +23,8 @@ para poder regresar y navegar entre todas las páginas.
 ## Tecnologías Utilizadas
 
 A continuación proporciono las tecnologías utilizadas.
+![image](https://github.com/KevinMMF23/BLOG_RESPONSIVO/assets/105268123/c5320393-f5f7-430c-a028-d2679c4f157f)
+
 - HTML.  
 - CSS.
 - VISUAL STUDIO CODE.
