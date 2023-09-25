@@ -45,7 +45,7 @@ A continuación proporciono las tecnologías utilizadas:
 - Descargar el acthivo.rar
 - Descomprimir archivo.rar
 - Abrir el archivo en algún entorno de desarrollo(Visual studio code en mi caso).
-## uso
+## Uso
 Iniciarás en la pestaña siguiente:
 ![image](https://github.com/KevinMMF23/BLOG_RESPONSIVO/assets/105268123/338b1c64-970e-4921-ba4a-bbab94118477)
 
@@ -73,8 +73,8 @@ git clone https://github.com/KevinMMF23/BLOG_RESPONSIVO.git
 # Directorio del proyecto en mi equipo
 C:\Users\Kevin\Desktop\TAREAS\PROGRA\unidad 2\Proyecto UNIDAD2
 
-#licencia
+# Licencia
 Uso libre
 
-# contacto
+# Contacto
 a20490747@itmexicali.edu.mx
