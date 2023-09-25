@@ -63,7 +63,7 @@ Cabe recalcar que el menú es responsivo:
 ![image](https://github.com/KevinMMF23/BLOG_RESPONSIVO/assets/105268123/d51c8329-a9d4-4e84-b154-aa26ba32156d)
 
 # Clona el repositorio
-git clone https://github.com/tuusuario/tuprojecto.git
+git clone https://github.com/KevinMMF23/BLOG_RESPONSIVO.git
 
 # Directorio del proyecto en mi equipo
 C:\Users\Kevin\Desktop\TAREAS\PROGRA\unidad 2\Proyecto UNIDAD2
